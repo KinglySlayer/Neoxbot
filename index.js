@@ -139,7 +139,7 @@ client.on('message', message => {
 16 - As páginas não estão carregando, o que eu faço? - **%reportpgs**,
 17 - Quais obras estão em hiato? - **%obrashiato**,
 18 - Quais obras estão em dia? - **%obraemdia**,
-19 - Quais são os atuais Monarcas, Administradores e Moderadores? - **%staff**,
+19 - Quais são os atuais Monarcas e Moderadores? - **%staff**,
 
 - Caso sua pergunta não esteja aqui, fale com o <@432980720122855434> ou algum mod/adm. 
 - Caso ocorra qualquer problema/bug no bot, chame <@748614256857186354>
