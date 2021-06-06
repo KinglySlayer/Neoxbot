@@ -5,7 +5,7 @@ module.exports.run = async (client, message, args) => {
   if (message.content.startsWith(`<@!${client.user.id}>`) || message.content.startsWith(`<@${client.user.id}>`)) return
   // const recrutamentoMessage = args.join(' ');
   message.delete().catch(O_o => {});
-  message.reply("DM enviada, confira seu privado!").then((sent) => {
+  message.reply("DM enviada, confira seu privado!!").then((sent) => {
     setTimeout(function() {sent.delete()}, 3000)
   })
 
